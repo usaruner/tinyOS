@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_242-release
+Main-Class: OS141
+Class-Path: resources/javafx-sdk-15.0.1/lib/javafx.base.jar resources/javafx-sdk-15.0.1/lib/javafx.controls.jar resources/javafx-sdk-15.0.1/lib/javafx.graphics.jar
