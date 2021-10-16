@@ -3,4 +3,4 @@
 ## Roles
 #### Printers: Role to only print out when the users requests.<br />Writers/Readers: Role to only writer and read.<br />Disks: Stores and return read values.<br />Managers: Keeps track of the threads that are accessing certain resource.<br />Users: Gives commands which command printers and W/R 
 ## Design
-![diagram](/diagram.png)
+![diagram](/Diagram.png)
